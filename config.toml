@@ -1,0 +1,12 @@
+[Repo]
+repo_url="https://github.com/LoopGlitch26/LeetCode"
+
+[Twitter]
+consumer_key="5mAaUizFuNgROVzMRriVEOFQY"
+consumer_secret="Kpguj6sMfRQGjYyuDLBecvI1lHhPEHjkl9TuUv87Qe9IFSkqYh"
+access_token_key="4326809176-h0MlwRXIktGMrVbcjAmxsDyHqyVU8HfK2D4ouY3"
+access_token_secret="kCs9PwdwwirIsOS9LiPc2RKgoqGeDSFAGSRA9nx0EZY6g"
+
+[Config]
+commit_quantity_check=40
+fake_run=false
